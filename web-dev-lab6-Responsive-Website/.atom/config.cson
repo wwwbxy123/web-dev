@@ -1,0 +1,17 @@
+"*":
+  core:
+    disabledPackages: [
+      "linter"
+      "php-server"
+      "cornell-info2300"
+    ]
+  editor:
+    scrollPastEnd: true
+    showIndentGuide: true
+    softWrap: true
+  "color-picker":
+    preferredFormat: "HEX"
+  "cornell-info1300": {}
+  "tree-view":
+    autoReveal: true
+    hideVcsIgnoredFiles: false

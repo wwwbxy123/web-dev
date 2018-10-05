@@ -1,0 +1,33 @@
+.first-row{
+  display: flex;
+  height: 30px;
+}
+
+
+.layout {
+  background-color: pink;
+  flex: 2;
+}
+
+.nav {
+  background-color: navy;
+  color: white;
+  flex: 5;
+}
+
+
+.second-row{
+  display: flex;
+  height: 300px;
+}
+
+
+.box1{
+  background-color: green;
+  flex: 4;
+}
+
+.box2{
+  background-color: purple;
+  flex: 1;
+}

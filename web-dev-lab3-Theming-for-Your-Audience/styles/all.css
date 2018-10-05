@@ -1,0 +1,34 @@
+body {
+  background-color:#F7F4E3;
+}
+
+h1 {
+  color: #7B3C3C;
+  font-family:fantasy;
+}
+
+h2 {
+  color: #DB5F29;
+  font-family:fantasy;
+}
+
+p {
+  color: #7B3C3C;
+  background-color: #FEE4A6;
+  font-family:fantasy;
+  text-decoration:line-through;
+}
+
+li {
+  color: #7B3C3C;
+  font-family:sans-serif;
+}
+em {
+  font-style:normal; /* removes italics */
+  font-weight:lighter; /* adds bold */
+}
+
+a {
+  font-style:italic;
+  color:#FF8000;
+}
